@@ -1,7 +1,7 @@
 # pong
 how to use:
-1. install Python
-2. install Pygame
+1. install python
+2. install pygame
 3. run game.py
 4. vuala
 
