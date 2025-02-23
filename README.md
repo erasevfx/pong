@@ -3,5 +3,4 @@ How to use:
 1. Install Python
 2. Install Pygame
 3. Run game.py
-\n
-vuala
+4. vuala
